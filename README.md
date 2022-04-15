@@ -1,3 +1,7 @@
+Some possible future updates:
+- display cards in a neater fashion
+- make responsive for mobile devices
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
